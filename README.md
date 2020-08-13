@@ -1,2 +1,2 @@
 # OOSD
-gonna ade later
+gonna add later
